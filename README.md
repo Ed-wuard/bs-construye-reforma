@@ -1,4 +1,4 @@
-# bs-construye-reforma
+# Landing Page BS Construye Reforma
 
 <img src="./home.png" alt="Landing Page">
 <img src="./modal.png" alt="Formulario de solicitud de presupuesto">
