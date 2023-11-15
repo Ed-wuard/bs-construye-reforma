@@ -23,7 +23,7 @@ Landing Page para la empresa BS Construye Reforma.
 
 * Página para agregar Trabajos Realizados (create).
 
-* Envios de notificaciones de solicitud de presupuesto.
+* Envios de notificaciones de solicitud de presupuesto vía email.
 
 ## Herramientas (Tools) 🛠️
 
